@@ -5,3 +5,11 @@
 /.vs/GoodHamburger/v17/.suo
 /.vs/GoodHamburger/v17/DocumentLayout.backup.json
 /.vs/GoodHamburger/v17/DocumentLayout.json
+/.vs/GoodHamburger/FileContentIndex
+/GoodHamburger.API/obj
+/GoodHamburger.Application/obj
+/GoodHamburger.Domain/obj
+/GoodHamburger.Infra.Data/obj
+/GoodHamburger.Infra.IoC/obj
+/GoodHamburger.Tests/obj
+/GoodHamburger.WebApp/obj
